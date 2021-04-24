@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1576542513 source:c:\users\user\desktop\learncpp.games\cppproject\networkstudent.cpp
+	<iostream>
+	"networkStudent.h"
+	"degree.h"
+	"student.h"
+
+1576542512 source:c:\users\user\desktop\learncpp.games\cppproject\securitystudent.cpp
+	<iostream>
+	"securityStudent.h"
+	"degree.h"
+	"student.h"
+
+1576542513 source:c:\users\user\desktop\learncpp.games\cppproject\softwarestudent.cpp
+	<iostream>
+	"softwareStudent.h"
+	"degree.h"
+	"student.h"
+
+1576193425 c:\users\user\desktop\learncpp.games\cppproject\networkstudent.h
+	<string>
+	"degree.h"
+	"student.h"
+
+1576537323 c:\users\user\desktop\learncpp.games\cppproject\degree.h
+	<string>
+
+1576542624 c:\users\user\desktop\learncpp.games\cppproject\student.h
+	<string>
+	"degree.h"
+
+1576542406 source:c:\users\user\desktop\learncpp.games\cppproject\roster.cpp
+	"roster.h"
+	"student.h"
+	"networkStudent.h"
+	"securityStudent.h"
+	"softwareStudent.h"
+	"degree.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<string.h>
+
+1576542406 c:\users\user\desktop\learncpp.games\cppproject\roster.h
+	<string>
+	<iostream>
+	"student.h"
+	"networkStudent.h"
+	"securityStudent.h"
+	"softwareStudent.h"
+	"degree.h"
+
+1576193425 c:\users\user\desktop\learncpp.games\cppproject\securitystudent.h
+	<string>
+	"degree.h"
+	"student.h"
+
+1576193425 c:\users\user\desktop\learncpp.games\cppproject\softwarestudent.h
+	<string>
+	"degree.h"
+	"student.h"
+
+1576026178 source:c:\users\user\desktop\learncpp.games\cppproject\student.cpp
+	<iostream>
+	<iomanip>
+	"student.h"
+
